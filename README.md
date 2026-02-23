@@ -251,8 +251,12 @@ If you find our work useful, please consider citing:
 @article{mei2025fast,
   title={Fast Online Adaptive Neural MPC via Meta-Learning},
   author={Mei, Yu and Zhou, Xinyu and Yu, Shuyang and Srivastava, Vaibhav and Tan, Xiaobo},
-  journal={arXiv preprint arXiv:2504.16369},
-  year={2025}
+  journal={IFAC-PapersOnLine},
+  volume={59},
+  number={30},
+  pages={377--382},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
 
